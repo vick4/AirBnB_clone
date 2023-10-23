@@ -44,8 +44,6 @@ center boxes
 * No cross browsers
 * You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
 
-"C:\Users\Emmyy\Downloads\hbnb_step1.png"
-
 # Tasks
 ## 0. Inline styling
 mandatory
@@ -72,5 +70,3 @@ You must use the header and footer tags
 You are not allowed to import any files
 You are not allowed to use the style tag in the head tag
 Use inline styling for all your tags
-
-"C:\Users\Emmyy\Downloads\98f4ac1b0644512ce7ae91a9e8e61e8fe174911d.png"
